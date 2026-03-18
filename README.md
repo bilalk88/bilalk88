@@ -124,46 +124,46 @@ currently:   Sr. Software QA Engineer (Security Testing) @ SITE / NCA (via Flint
 ## `$ cat experience.log`
 
 ```
-[Jan-2026 - Current   ] ▶  Sr. Software QA Engineer (Security Testing)
-                            Flint International → SITE / NCA | Riyadh, Saudi Arabia
-                            ├── Securing business-critical apps for PIF-backed entities
-                            ├── Defined AppSec KPIs for program maturity measurement
-                            ├── Reduced ecosystem vulnerability count by 60% via GitLab Advanced Security
-                            ├── SAST, SCA & secret scanning integrations within GitLab CI/CD
-                            └── Specialising in business logic vulns & injection-based attacks
+[Jan-2026 - Current] ▶  Sr. Software QA Engineer (Security Testing)
+                          Flint International → SITE / NCA | Riyadh, Saudi Arabia
+                          ├── Securing business-critical apps for PIF-backed entities
+                          ├── Defined AppSec KPIs for program maturity measurement
+                          ├── Reduced ecosystem vulnerability count by 60% via GitLab Advanced Security
+                          ├── SAST, SCA & secret scanning integrations within GitLab CI/CD
+                          └── Specialising in business logic vulns & injection-based attacks
 
-[Oct-2022 - Dec-2025  ] ▶  Team Lead – Product Security Engineer
-                            ConnectWise LLP | Mumbai, India
-                            ├── Manual pentest of Web, API, Mobile & Thick-Client applications
-                            ├── Reduced security vulnerabilities by 30% via SecureCodingDojo training
-                            ├── Managed corporate Vulnerability Disclosure Program (VDP)
-                            ├── Built company-wide Security Champions program (SDLC integration)
-                            ├── Integrated Snyk (SCA, SAST, Container, IaC) into GitLab & Jenkins
-                            └── Assessed AI-integrated apps using OWASP Top 10 for LLMs
+[Oct-2022 - Dec-2025] ▶ Team Lead – Product Security Engineer
+                          ConnectWise LLP | Mumbai, India
+                          ├── Manual pentest of Web, API, Mobile & Thick-Client applications
+                          ├── Reduced security vulnerabilities by 30% via SecureCodingDojo training
+                          ├── Managed corporate Vulnerability Disclosure Program (VDP)
+                          ├── Built company-wide Security Champions program (SDLC integration)
+                          ├── Integrated Snyk (SCA, SAST, Container, IaC) into GitLab & Jenkins
+                          └── Assessed AI-integrated apps using OWASP Top 10 for LLMs
 
-[Jul-2021 - Oct-2022  ] ▶  Technology Security Associate Manager
-                            Accenture | Mumbai, India
-                            ├── Led 100+ application assessments (SAST, DAST, SCA, Web/API Pentest)
-                            ├── Developed MBSS Baselines for Windows, Linux, Docker, Containers
-                            ├── Managed team of 4 security engineers
-                            └── Built internal CTF lab for security upskilling
+[Jul-2021 - Oct-2022] ▶ Technology Security Associate Manager
+                          Accenture | Mumbai, India
+                          ├── Led 100+ application assessments (SAST, DAST, SCA, Web/API Pentest)
+                          ├── Developed MBSS Baselines for Windows, Linux, Docker, Containers
+                          ├── Managed team of 4 security engineers
+                          └── Built internal CTF lab for security upskilling
 
-[Jan-2020 - Jul-2021  ] ▶  Manager – Application Security
-                            KPMG | Mumbai, India
-                            ├── Pentested 100+ Web Apps & 30+ Android Mobile Apps
-                            ├── Conducted OWASP Top 10 / API Top 10 assessments for global clients
-                            ├── VAPT on 600+ IPs across Banking, Telecom, Retail & Pharma
-                            └── Delivered engagements across Middle East, Canada & USA                            
+[Jan-2020 - Jul-2021] ▶ Manager – Application Security
+                          KPMG | Mumbai, India
+                          ├── Pentested 100+ Web Apps & 30+ Android Mobile Apps
+                          ├── Conducted OWASP Top 10 / API Top 10 assessments for global clients
+                          ├── VAPT on 600+ IPs across Banking, Telecom, Retail & Pharma
+                          └── Delivered engagements across Middle East, Canada & USA
 
-[Jun-2019 - Jan-2020  ] ▶  Application Security Engineer
-                            Cornerstone OnDemand | Mumbai, India
-                            ├── Pentested Web, Thick-Client & Mobile apps before quarterly releases
-                            ├── Integrated DAST into CI/CD: Burp Suite + Selenium + Jenkins
-                            └── Developed Dome9 GSL rules for continuous AWS cloud posture monitoring
+[Jun-2019 - Jan-2020] ▶ Application Security Engineer
+                          Cornerstone OnDemand | Mumbai, India
+                          ├── Pentested Web, Thick-Client & Mobile apps before quarterly releases
+                          ├── Integrated DAST into CI/CD: Burp Suite + Selenium + Jenkins
+                          └── Developed Dome9 GSL rules for continuous AWS cloud posture monitoring
 
-[Jan-2011 - May-2019  ] ▶  Principal Quality Engineer
-                            Continuum Managed Solutions | Mumbai, India
-                            └── QA → Security: Performed XSS, SQLi, Broken Auth assessments with InfoSec team
+[Jan-2011 - May-2019] ▶ Principal Quality Engineer
+                          Continuum Managed Solutions | Mumbai, India
+                          └── QA → Security: Performed XSS, SQLi, Broken Auth assessments with InfoSec team
 ```
 
 ---
@@ -236,13 +236,13 @@ currently:   Sr. Software QA Engineer (Security Testing) @ SITE / NCA (via Flint
 
 <div align="center">
 
-![Bilal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bilalk88&show_icons=true&count_private=true&include_all_commits=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9)
+![Bilal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bilalk88&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bilalk88&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bilalk88&theme=chartreuse-dark&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=bilalk88&theme=matrix&no-frame=true&margin-w=10&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bilalk88&theme=react-dark&bg_color=0D1117&color=00FF41&line=00FF41&point=00FF41&area=true&hide_border=true)
 
 </div>
 
