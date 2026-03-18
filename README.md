@@ -86,42 +86,41 @@ currently:   Sr. Software QA Engineer (Security Testing) @ SITE/ NCA (via Flint 
 ## `$ cat experience.log`
 
 ```
-[2026-01] ▶  Sr. Software QA Engineer (Security Testing)
-              Flint International → SITE / NCA | Riyadh, Saudi Arabia
-              ├── Defined AppSec KPIs for program maturity measurement
-              ├── Reduced ecosystem vulnerability count by 60% via GitLab Advanced Security
-              ├── Integrated SAST, SCA & secret scanning in GitLab CI/CD
-              └── Specialising in business logic vulns & injection-based attacks
+[Jan-2026 - Current] ▶  Sr. Software QA Engineer (Security Testing)
+                        Flint International → SITE / NCA | Riyadh, Saudi Arabia
+                        ├── Defined AppSec KPIs for program maturity measurement
+                        ├── Reduced ecosystem vulnerability count by 60% via GitLab Advanced Security
+                        ├── Integrated SAST, SCA & secret scanning in GitLab CI/CD
+                        └── Specialising in business logic vulns & injection-based attacks
 
-[2022-10] ▶  Team Lead – Product Security Engineer
-              ConnectWise LLP | Mumbai, India  (Oct 2022 – Dec 2025)
-              ├── Reduced reported security vulnerabilities by 30% via SecureCodingDojo training
-              ├── Led Internal Pentest & Threat Hunting (Web, API, Network)
-              ├── Managed corporate Vulnerability Disclosure Program (VDP)
-              ├── Built company-wide Security Champions program
-              └── Assessed AI-integrated apps using OWASP Top 10 for LLMs
+[Oct-2022 - Dec-2025] ▶  Team Lead – Product Security Engineer
+                        ConnectWise LLP | Mumbai, India  (Oct 2022 – Dec 2025)
+                        ├── Reduced reported security vulnerabilities by 30% via SecureCodingDojo training
+                        ├── Led Internal Pentest & Threat Hunting (Web, API, Network)
+                        ├── Managed corporate Vulnerability Disclosure Program (VDP)
+                        ├── Built company-wide Security Champions program
+                        └── Assessed AI-integrated apps using OWASP Top 10 for LLMs
 
-[2021-07] ▶  Technology Security Associate Manager
-              Accenture | Mumbai, India  (Jul 2021 – Oct 2022)
-              ├── Led 100+ application security assessments (SAST, DAST, SCA, Pentest)
-              ├── Developed MBSS Baselines for Windows, Linux, Docker, Containers
-              └── Managed team of 4 security engineers
+[July-2021 - Oct-2022] ▶  Technology Security Associate Manager
+                        Accenture | Mumbai, India  (Jul 2021 – Oct 2022)
+                        ├── Led 100+ application security assessments (SAST, DAST, SCA, Pentest)
+                        ├── Developed MBSS Baselines for Windows, Linux, Docker, Containers
+                        └── Managed team of 4 security engineers
 
-[2020-01] ▶  Manager – Application Security
-              KPMG | Mumbai, India  (Jan 2020 – Jul 2021)
-              ├── Delivered engagements across Middle East, Canada & USA
-              ├── Pentested 100+ web apps & 30+ Android mobile apps
-              ├── Conducted VAPT on 600+ IPs
-              └── 🏆 Rising Star Award – Q1 2020
+[Jan-2020 - July-2021] ▶  Manager – Application Security
+                        KPMG | Mumbai, India  (Jan 2020 – Jul 2021)
+                        ├── Delivered engagements across Middle East, Canada & USA
+                        ├── Pentested 100+ web apps & 30+ Android mobile apps
+                        └── Conducted VAPT on 600+ IPs
 
-[2019-06] ▶  Application Security Engineer
-              Cornerstone OnDemand | Mumbai, India  (Jun 2019 – Jan 2020)
-              ├── Integrated DAST into CI/CD using Burp Suite + Selenium + Jenkins
-              └── Developed Dome9 GSL rules for AWS cloud security posture monitoring
+[June-2019 - Jan-2020] ▶  Application Security Engineer
+                        Cornerstone OnDemand | Mumbai, India  (Jun 2019 – Jan 2020)
+                        ├── Integrated DAST into CI/CD using Burp Suite + Selenium + Jenkins
+                        └── Developed Dome9 GSL rules for AWS cloud security posture monitoring
 
-[2011-01] ▶  Principal Quality Engineer
-              Continuum Managed Solutions | Mumbai, India  (Jan 2011 – May 2019)
-              └── QA Engineering → Transitioned into Security testing (XSS, SQLi, BrokenAuth)
+[Jan-2011 - May-2019] ▶  Principal Quality Engineer
+                        Continuum Managed Solutions | Mumbai, India  (Jan 2011 – May 2019)
+                        └── QA Engineering → Transitioned into Security testing (XSS, SQLi, BrokenAuth)
 ```
 
 ---
@@ -133,7 +132,7 @@ currently:   Sr. Software QA Engineer (Security Testing) @ SITE/ NCA (via Flint 
 | 🔴 **Certified Red Team Expert (CRTE)** | Altered Security | 2023 |
 | 🔵 **Certified Azure Red Team Professional (CARTP)** | Altered Security | 2021 |
 | ☁️ **Microsoft Certified: Azure Fundamentals (AZ-900)** | Microsoft | 2021 |
-| 🛡️ **Certified Application Security Engineer – .NET (CASE)** | EC-Council | 2019 |
+| 🛡️ **Certified Application Security Engineer – .NET (CASE.NET)** | EC-Council | 2019 |
 | 🏅 **CREST Practitioner Security Analyst (CPSA)** | CREST | 2019 |
 | 🎯 **EC-Council Certified Security Analyst (ECSA)** | EC-Council | 2019 |
 | 🔍 **Certified Threat Intelligence Analyst (CTIA)** | EC-Council | 2018 |
