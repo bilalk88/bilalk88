@@ -1,12 +1,12 @@
 <div align="center">
-
+  
 ```
-██████╗ ██╗██╗      █████╗ ██╗      █████╗ ██╗  ██╗███████╗██████╗
-██╔══██╗██║██║     ██╔══██╗██║     ██╔══██╗██║ ██╔╝██╔════╝██╔══██╗
-██████╔╝██║██║     ███████║██║     ███████║█████╔╝ █████╗  ██║  ██║
-██╔══██╗██║██║     ██╔══██║██║     ██╔══██║██╔═██╗ ██╔══╝  ██║  ██║
-██████╔╝██║███████╗██║  ██║███████╗██║  ██║██║  ██╗███████╗██████╔╝
-╚═════╝ ╚═╝╚══════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═════╝
+██████╗ ██╗██╗      █████╗ ██╗        ██╗  ██╗██╗  ██╗ █████╗ ███╗   ██╗
+██╔══██╗██║██║     ██╔══██╗██║        ██║ ██╔╝██║  ██║██╔══██╗████╗  ██║
+██████╔╝██║██║     ███████║██║        █████╔╝ ███████║███████║██╔██╗ ██║
+██╔══██╗██║██║     ██╔══██║██║        ██╔═██╗ ██╔══██║██╔══██║██║╚██╗██║
+██████╔╝██║███████╗██║  ██║███████╗   ██║  ██╗██║  ██║██║  ██║██║ ╚████║
+╚═════╝ ╚═╝╚══════╝╚═╝  ╚═╝╚══════╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝
 ```
 
 # `$ whoami` → **Bilal Ahmed Khan**
@@ -31,13 +31,13 @@ location:    Riyadh, Saudi Arabia 🇸🇦
 experience:  15+ Years
 focus:
   - Application Penetration Testing (Web, Mobile, API, Thick-Client)
+  - SAST / DAST / SCA 
   - DevSecOps & SSDLC Integration
   - AI / LLM Security (OWASP Top 10 for LLMs)
-  - Threat Modeling & Vulnerability Management
+  - Threat Modeling & Vulnerability Assessment/ Management
 industries:
-  - BFSI | Telecom | Retail | Government
-  - Saudi Arabia | India | Canada | Middle East | USA
-currently:   Sr. Software QA Engineer (Security Testing) @ SITE / NCA (via Flint International)
+  - BFSI | Telecom | Retail | Government | Leraning Management | Product Security
+currently:   Sr. Software QA Engineer (Security Testing) @ SITE/ NCA (via Flint International)
 ```
 
 ---
