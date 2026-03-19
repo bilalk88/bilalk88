@@ -139,7 +139,10 @@ currently:   Sr. Software QA Engineer (Security Testing) @ SITE / NCA (via Flint
                           ├── Managed corporate Vulnerability Disclosure Program (VDP)
                           ├── Built company-wide Security Champions program (SDLC integration)
                           ├── Integrated Snyk (SCA, SAST, Container, IaC) into GitLab & Jenkins
-                          └── Assessed AI-integrated apps using OWASP Top 10 for LLMs
+                          ├── Assessed AI-integrated apps using OWASP Top 10 for LLMs
+                          ├── 🔧 Built DNSReaper wrapper → R53 subdomain takeover detection → reduced dangling DNS by 50-60%
+                          ├── 🔧 Built trufflehog secret scanning wrapper for SCM repos → validated hardcoded secrets → 60-70% reduction
+                          └── 🔧 Automated nightly API scanning via Burp Suite Pro + Postman for continuous OWASP API Top 10 coverage
 
 [Jul-2021 - Oct-2022] ▶ Technology Security Associate Manager
                           Accenture | Mumbai, India
@@ -203,6 +206,45 @@ currently:   Sr. Software QA Engineer (Security Testing) @ SITE / NCA (via Flint
 > - **Model Denial of Service** — resource exhaustion through adversarial prompts
 
 ---
+
+## `$ ls -la automation/`
+
+> **🔧 Security Automation & Tools Built**
+
+### 🌐 DNSReaper Wrapper — Subdomain Takeover Detection (R53)
+```python
+# Tool: DNSReaper (wrapper) | Target: AWS Route 53 records
+# Impact: Reduced dangling DNS / subdomain takeover risk by 50–60%
+```
+> Built a custom Python wrapper around **DNSReaper** to automate subdomain takeover vulnerability detection across **AWS Route 53** records at scale. The wrapper filtered and validated results, eliminating false positives, and generated structured reports for the CloudOps team. Identified and tracked all dangling DNS records pointing to deprovisioned AWS resources — partnered with CloudOps to remediate, achieving a **50–60% reduction** in exposed subdomain takeover vectors.
+>
+> **Stack:** Python · DNSReaper · AWS Route 53 API · Boto3 · Jira integration
+
+---
+
+### 🔑 Secret Detection Wrapper — SCM Repository Scanning
+```bash
+# Tool: TruffleHog / custom wrapper | Target: GitLab / GitHub SCM repos
+# Impact: Reduced hardcoded secrets exposure by 60–70%
+```
+> Engineered a secret scanning wrapper for **Source Code Management (SCM) repositories** that fetched, validated, and verified hardcoded secrets within codebases — filtering out entropy false positives to surface only confirmed, exploitable credentials. Automated stakeholder notifications with contextual severity, affected file paths, and remediation guidance. Drove a **60–70% reduction** in hardcoded secrets exposure across the codebase.
+>
+> **Stack:** Python · TruffleHog · GitLab API · Slack/Email Webhooks · Custom Entropy Validator
+
+---
+
+### 🔌 Nightly API Security Scan — Burp Suite + Postman Automation
+```javascript
+// Tool: Burp Suite Pro API + Postman Collections
+// Trigger: Nightly CI/CD scheduled scan
+// Impact: Continuous OWASP API Top 10 coverage across all API endpoints
+```
+> Designed and implemented an automated **nightly API security scanning pipeline** integrating **Burp Suite Pro** (via its REST API) with **Postman collections** to continuously scan API endpoints for OWASP API Top 10 vulnerabilities. The automation ran on a scheduled CI/CD trigger, generated structured scan reports, and flagged regressions for developer triage — ensuring no new API vulnerabilities slipped past release gates.
+>
+> **Stack:** Burp Suite Pro API · Postman · Newman · Jenkins · Python · Jira
+
+---
+
 
 ## `$ ls -la certifications/`
 
