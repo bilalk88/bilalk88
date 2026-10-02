@@ -10,7 +10,7 @@
 ```
 
 # `$ whoami` → **Bilal Ahmed Khan**
-### Senior Application Security Engineer · 15+ Years
+### Lead Security Engineer · 15+ Years
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&width=700&lines=Web+%7C+API+%7C+Mobile+%7C+Thick-Client+Penetration+Testing;OWASP+Top+10+Web+%7C+API+%7C+LLM+Security;DevSecOps+%7C+SAST+%2F+DAST+%2F+SCA+%7C+CI%2FCD+Pipelines;Product+Security+%7C+Security+Champions+%7C+VDP;15%2B+Years+Securing+Enterprise+Applications)](https://git.io/typing-svg)
 
@@ -26,8 +26,8 @@
 
 ```yaml
 name:        Bilal Ahmed Khan
-title:       Senior Application Security Engineer
-location:    Riyadh, Saudi Arabia 🇸🇦
+title:       Lead Security Engineer
+location:    Pune, Maharashtra, India
 experience:  15+ Years
 specializations:
   - Web Application Penetration Testing (OWASP Top 10)
@@ -40,7 +40,7 @@ specializations:
   - Threat Modeling, VDP Management & Security Champions Programs
 industries:
   - BFSI | Telecom | Retail | Government | SaaS
-currently:   Sr. Software QA Engineer (Security Testing) @ SITE / NCA (via Flint International)
+Currently:   Lead Security Engineer | Gurucul Solutions Pvt. Ltd. 
 ```
 
 ---
@@ -124,7 +124,15 @@ currently:   Sr. Software QA Engineer (Security Testing) @ SITE / NCA (via Flint
 ## `$ cat experience.log`
 
 ```
-[Jan-2026 - Current] ▶  Sr. Software QA Engineer (Security Testing)
+[May-2026 - Current] ▶  Lead Security Engineer
+                          Gurucul Solutions Pvt. Ltd. | Pune, Maharashtra, India
+                          ├── Driving SAST, DAST, and SCA across CI/CD pipelines with AI based validation of findings and triaging;
+                          ├── Reduced open critical and high-severity vulnerabilities by 45% and false positives by 50%
+                          ├── Established SBOM generation (CycloneDX/SPDX) for all product releases and lead software supply chain reviews of third-party components, and outdated dependencies; achieved 100% SBOM coverage and cut vulnerable dependencies by 40%.
+                          ├── Leading internal penetration testing of web applications, APIs, and cloud infrastructure, with focus on multi-tenancy, access control, and authentication weaknesses.
+                          └── Specialising in business logic vulns & injection-based attacks
+
+[Jan-2026 - May-2026] ▶  Sr. Software QA Engineer (Security Testing)
                           Flint International → SITE / NCA | Riyadh, Saudi Arabia
                           ├── Securing business-critical apps for PIF-backed entities
                           ├── Defined AppSec KPIs for program maturity measurement
